@@ -1,0 +1,4 @@
+So, this is the second file of this Git exercise.
+We are still learning how to use Git.
+
+Basically, Here is where the second chapter finish. 
